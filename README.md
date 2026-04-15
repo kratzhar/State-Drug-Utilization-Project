@@ -40,6 +40,9 @@ Silver:	Data Scientists/Analysts for performing analysis in order to answer busi
 
 Gold:	Politician/Bureaucrats/Decision Makers for decision making 
 
+## How to Run
+https://colab.research.google.com/drive/18jYoZ618sxv-trLNPGGKLmoLiD2EfQi-?usp=sharing
+
 
 ## Authors
 
