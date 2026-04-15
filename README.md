@@ -43,8 +43,8 @@ Gold:	Politician/Bureaucrats/Decision Makers for decision making
 ## How to Run
 
 1) Download CSV file from https://data.medicaid.gov/dataset/158a1baa-5506-400a-8ec3-97756f0b0536#data-table
-2) Save the file to your Google Drive in a folder called "Group Project"
-3) Open Jupyter https://colab.research.google.com/drive/18jYoZ618sxv-trLNPGGKLmoLiD2EfQi-?usp=sharing
+2) Save the file to your Google Drive (not in a folder). The file name should be the same as it was when you downloaded it "StateDrugUtilizationData-2025.csv"
+3) Open Jupyter Notebook "Phase4_CIS_660_Group_Project"
 4) Hit "Run All"
 
 ## Authors
