@@ -41,7 +41,16 @@ Silver:	Data Scientists/Analysts for performing analysis in order to answer busi
 Gold:	Politician/Bureaucrats/Decision Makers for decision making 
 
 ## How to Run
-https://colab.research.google.com/drive/18jYoZ618sxv-trLNPGGKLmoLiD2EfQi-?usp=sharing
+
+1) Download CSV file from https://data.medicaid.gov/dataset/158a1baa-5506-400a-8ec3-97756f0b0536#data-table
+2) Save the file to your Google Drive
+3) Open Jupyter https://colab.research.google.com/drive/18jYoZ618sxv-trLNPGGKLmoLiD2EfQi-?usp=sharing
+4) In cell 4, change the path to the path for your saved csv file
+
+<img width="1206" height="72" alt="image" src="https://github.com/user-attachments/assets/28d7960e-1a5e-49bd-a96a-996f29b56dec" />
+
+5) Hit "Run All"
+<img width="589" height="141" alt="image" src="https://github.com/user-attachments/assets/6211f2b1-d4f9-4edc-a5a2-4debcc7ebc0e" />
 
 
 ## Authors
