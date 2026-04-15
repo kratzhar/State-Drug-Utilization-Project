@@ -41,27 +41,6 @@ Silver:	Data Scientists/Analysts for performing analysis in order to answer busi
 Gold:	Politician/Bureaucrats/Decision Makers for decision making 
 
 
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* Click
-* Step-by-step bullets
-```
-code blocks for commands
-```
-```
-
 ## Authors
 
 Sri Rakumari Mendu: Database & Schema Lead
