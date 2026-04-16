@@ -19,15 +19,6 @@ missing values, and currency-based reimbursement fields. The dataset also contai
 records across states and time periods, exceeding the minimum size requirement and justifying 
 distributed Spark processing and complex joins.
 
-## Data Architecture Diagram
-
-https://drive.google.com/file/d/1ZY97VQT7MGI0o6D78ZbhewWtjfcn0438/view?usp=drive_link
-
-
-## Data Dictionary
-
-https://drive.google.com/file/d/1jeKoT1CTJ1JBhdrIg4qhoYiM4a7MQ1_B/view?usp=drive_link
-
 ## Personally Identifiable Information
 
 There is no personally identifiable information in our data.
